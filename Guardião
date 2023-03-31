@@ -1,0 +1,731 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-NH6ihJJ3u83JycuQ-sc",
+        "name": "Estátua Animada",
+        "avatar": "https://imgur.com/xUaRga7.jpg",
+        "bio": "%3Cp%3E%3C/p%3E%3Ch1%3EEst%E1tua%20Animada%20ND2%3C/h1%3E%3Cdiv%20style%3D%22text-align%3A%20justify%22%3E%3Cdiv%3EEsses%20construtos%20s%E3o%20est%E1tuas%2C%20geralmente%20de%20pedra%20ou%20metal%2C%20encantadas%20para%20ganhar%20movimento.%20Diferente%20dos%20golens%2C%20est%E1tuas%20animadas%20n%E3o%20possuem%20consci%EAncia%20nem%20capacidade%20de%20racioc%EDnio%3A%20s%E3o%20objetos%20animados%20criados%20para%20cumprir%20uma%20%FAnica%20fun%E7%E3o%20ou%20diretriz%2C%20determinada%20por%20seu%20criador.%3C/div%3E%3C/div%3E%3Cp%3E%3C/p%3E",
+        "gmnotes": "%3Cp%3E%3C/p%3E%3Ch2%3E%3Cspan%20style%3D%22color%3A%20rgb%28%20206%20%2C%200%20%2C%200%20%29%22%3EConstruto%208%2C%20M%E9dio%3C/span%3E%3C/h2%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EIniciativa%20%3C/span%3E+4%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EPercep%E7%E3o%3C/span%3E%20+4%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3Evis%E3o%20no%20escuro%20%3C/span%3E%3Cbr%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EDefesa%2017%3C/span%3E%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EFort%20%3C/span%3E+12%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3ERef%3C/span%3E%20+3%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EVon%3C/span%3E%20+4%3Cbr%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EPontos%20de%20Vida%2072%3C/span%3E%3Cbr%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EDeslocamento%3C/span%3E%206m%20%284q%29%20%3Cbr%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3ECorpo%20a%20Corpo%20%3C/span%3EPancadas%20+14%20%282d6+6%20mais%20atordoamento%29.%20%3Cbr%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EGolpe%20Atordoante%26nbsp%3B%3C/span%3EUma%20criatura%20que%20sofra%20dano%20da%20pancada%20da%20est%E1tua%20animada%20deve%20fazer%20um%20teste%20de%20Fortitude%20%28CD%2020%29.%20Se%20falhar%2C%20fica%20atordoada%20por%20uma%20rodada.%3Cbr%3E%3Cdiv%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EConstruto%20%3C/span%3EUm%20construto%20tem%20imunidade%20a%20doen%E7as%2C%20fadiga%2C%20sangramento%2C%20sono%20e%20veneno%3B%20n%E3o%20precisa%20respirar%2C%20alimentar-se%20e%20dormir%3B%20n%E3o%20recupera%20pontos%20de%20vida%3C/div%3E%3Cdiv%3Epor%20descanso%20e%20efeitos%20de%20cura.%3C/div%3E%3Cdiv%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EVis%E3o%20no%20Escuro%3C/span%3E%20A%20criatura%20enxerga%20no%20escuro%20%28exceto%20escurid%E3o%20m%E1gica%29%20em%20alcance%20m%E9dio.%20Ela%20ignora%20camuflagem%20%28incluindo%20camuflagem%20total%29%20por%20escurid%E3o.%3C/div%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EFor%3C/span%3E%2022%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3EDes%20%3C/span%3E8%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3ECon%3C/span%3E%26nbsp%3B18%2C%3Cspan%20style%3D%22font-weight%3A%20bold%22%3E%20Int%3C/span%3E%20%u2013%2C%20%3Cspan%20style%3D%22font-weight%3A%20bold%22%3ESab%20%3C/span%3E10%2C%3Cspan%20style%3D%22font-weight%3A%20bold%22%3E%20Car%20%3C/span%3E1%20%3Cbr%3E%3Cspan%20style%3D%22font-weight%3A%20bold%22%3ETesouro%3C/span%3E%20Nenhum.%3Cbr%3E%3Cp%3E%3C/p%3E",
+        "defaulttoken": "{\"width\":70,\"height\":70,\"imgsrc\":\"https://imgur.com/xUaRga7.jpg\",\"name\":\"Estátua Animada\",\"show_tooltip\":false,\"represents\":\"-NH6ihJJ3u83JycuQ-sc\",\"bar1_value\":\"72\",\"bar1_max\":\"72\",\"bar2_num_permission\":\"hidden\",\"bar3_num_permission\":\"hidden\",\"showplayers_name\":true,\"showplayers_bar1\":true,\"playersedit_name\":false,\"dim_light_opacity\":\"0.75\"}",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "created_by_linki",
+                "current": "",
+                "max": "",
+                "id": "-N23x01SYWtgI_e2tBOX"
+            },
+            {
+                "name": "for_mod",
+                "current": "6",
+                "max": "",
+                "id": "-N23x01SYWtgI_e2tBOY"
+            },
+            {
+                "name": "des_mod",
+                "current": "-1",
+                "max": "",
+                "id": "-N23x01SYWtgI_e2tBOZ"
+            },
+            {
+                "name": "con_mod",
+                "current": "4",
+                "max": "",
+                "id": "-N23x01TTEtTOSK6MIZ1"
+            },
+            {
+                "name": "int_mod",
+                "current": 0,
+                "max": "",
+                "id": "-N23x01TTEtTOSK6MIZ2"
+            },
+            {
+                "name": "sab_mod",
+                "current": "0",
+                "max": "",
+                "id": "-N23x01TTEtTOSK6MIZ3"
+            },
+            {
+                "name": "car_mod",
+                "current": "-1",
+                "max": "",
+                "id": "-N23x01TTEtTOSK6MIZ4"
+            },
+            {
+                "name": "bonus_treino",
+                "current": 2,
+                "max": "",
+                "id": "-N23x01UdpYBUffsquO_"
+            },
+            {
+                "name": "penalidades_armadura",
+                "current": 0,
+                "max": "",
+                "id": "-N23x01UdpYBUffsquOa"
+            },
+            {
+                "name": "defesatotal",
+                "current": 17,
+                "max": "",
+                "id": "-N23x01UdpYBUffsquOb"
+            },
+            {
+                "name": "penalidades_armadura_carga",
+                "current": 0,
+                "max": "",
+                "id": "-N23x01UdpYBUffsquOc"
+            },
+            {
+                "name": "carga",
+                "current": "0",
+                "max": "",
+                "id": "-N23x01VGByWkixDEL_O"
+            },
+            {
+                "name": "charnivel",
+                "current": "2",
+                "max": "",
+                "id": "-N23x01VGByWkixDEL_P"
+            },
+            {
+                "name": "vidatotal",
+                "current": "72",
+                "max": "",
+                "id": "-N23x01VGByWkixDEL_Q"
+            },
+            {
+                "name": "vida",
+                "current": "72",
+                "max": "72",
+                "id": "-N23x01VGByWkixDEL_R"
+            },
+            {
+                "name": "for",
+                "current": "6",
+                "max": "",
+                "id": "-N23x01Wq_nYJZDZnM7s"
+            },
+            {
+                "name": "int",
+                "current": "-",
+                "max": "",
+                "id": "-N23x01Wq_nYJZDZnM7t"
+            },
+            {
+                "name": "car",
+                "current": "-1",
+                "max": "",
+                "id": "-N23x01Wq_nYJZDZnM7u"
+            },
+            {
+                "name": "des",
+                "current": "-1",
+                "max": "",
+                "id": "-N23x01Wq_nYJZDZnM7v"
+            },
+            {
+                "name": "con",
+                "current": "4",
+                "max": "",
+                "id": "-N23x01Wq_nYJZDZnM7w"
+            },
+            {
+                "name": "sab",
+                "current": "0",
+                "max": "",
+                "id": "-N23x01X1I66BBFrldzI"
+            },
+            {
+                "name": "percepcao_treinada",
+                "current": "1",
+                "max": "",
+                "id": "-N23x01X1I66BBFrldzJ"
+            },
+            {
+                "name": "fortitude_treinada",
+                "current": "1",
+                "max": "",
+                "id": "-N23x01X1I66BBFrldzK"
+            },
+            {
+                "name": "luta_treinada",
+                "current": "1",
+                "max": "",
+                "id": "-N23x01X1I66BBFrldzL"
+            },
+            {
+                "name": "menace_defense",
+                "current": 17,
+                "max": "",
+                "id": "-NH7cgD9cAH59jHNthtF"
+            },
+            {
+                "name": "menace_for",
+                "current": "6",
+                "max": "",
+                "id": "-NH7cgTcInnMu4imrG3x"
+            },
+            {
+                "name": "menace_des",
+                "current": "-1",
+                "max": "",
+                "id": "-NH7cgTd7vc3OZrgTUoY"
+            },
+            {
+                "name": "menace_con",
+                "current": "4",
+                "max": "",
+                "id": "-NH7cgTfok0Ma0kFcQVS"
+            },
+            {
+                "name": "menace_int",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgTgY9PLnaXPeD26"
+            },
+            {
+                "name": "menace_sab",
+                "current": "0",
+                "max": "",
+                "id": "-NH7cgThazZAlwdtFL6V"
+            },
+            {
+                "name": "menace_car",
+                "current": "-1",
+                "max": "",
+                "id": "-NH7cgTiP9Q25fBJeQIb"
+            },
+            {
+                "name": "menace_name",
+                "current": "Estátua Animada",
+                "max": "",
+                "id": "-NH7cgTkmkgZA2WM3pbJ"
+            },
+            {
+                "name": "menace_hp",
+                "current": "72",
+                "max": "",
+                "id": "-NH7cgTl5wEsabdB2-5d"
+            },
+            {
+                "name": "menace_mp",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgTmgKVhdq55AgYr"
+            },
+            {
+                "name": "menace_nd",
+                "current": "2",
+                "max": "",
+                "id": "-NH7cgTnELItv_gkRkBC"
+            },
+            {
+                "name": "menace_init",
+                "current": "+4",
+                "max": "",
+                "id": "-NH7cgTo8qyE56L9tE0G"
+            },
+            {
+                "name": "menace_percep",
+                "current": "+4",
+                "max": "",
+                "id": "-NH7cgTpz08Ffg1G4yEa"
+            },
+            {
+                "name": "menace_fortitude",
+                "current": "+12",
+                "max": "",
+                "id": "-NH7cgTqO6D3FvPce9oa"
+            },
+            {
+                "name": "menace_reflex",
+                "current": "+3",
+                "max": "",
+                "id": "-NH7cgTrsyKDT7R8i6v7"
+            },
+            {
+                "name": "menace_will",
+                "current": "+4",
+                "max": "",
+                "id": "-NH7cgTsMzkJ1TH87QiS"
+            },
+            {
+                "name": "menace_acrobaciatotal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgTtEHgROWwtBKP1"
+            },
+            {
+                "name": "menace_adestramentototal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgTuaMq9wHRuIeGD"
+            },
+            {
+                "name": "menace_atletismototal",
+                "current": "+7",
+                "max": "",
+                "id": "-NH7cgTvv7CinZ1YuxXy"
+            },
+            {
+                "name": "menace_atuacaototal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgTwyMiJhY5shG17"
+            },
+            {
+                "name": "menace_cavalgartotal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgTxvRHxeh80IaQN"
+            },
+            {
+                "name": "menace_conhecimentototal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgTy5IoXxvwhgqet"
+            },
+            {
+                "name": "menace_curatotal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgTz_ee9jhDGk-HS"
+            },
+            {
+                "name": "menace_diplomaciatotal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgU-_X2T-YOctX3H"
+            },
+            {
+                "name": "menace_enganacaototal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgU0PMeqX0qggxkB"
+            },
+            {
+                "name": "menace_furtividadetotal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgU1lRhbhKIxgesT"
+            },
+            {
+                "name": "menace_guerratotal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgU1lRhbhKIxgesU"
+            },
+            {
+                "name": "menace_intimidacaototal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgU2GszqqaovHLgb"
+            },
+            {
+                "name": "menace_intuicaototal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgU5Kotig8fwgdoE"
+            },
+            {
+                "name": "menace_investigacaototal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgU7P6bJPGH_4svf"
+            },
+            {
+                "name": "menace_jogatinatotal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgU7P6bJPGH_4svg"
+            },
+            {
+                "name": "menace_ladinagemtotal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgU8LChUY4pO5m1r"
+            },
+            {
+                "name": "menace_misticismototal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgU9ioS6Dz0tsWaI"
+            },
+            {
+                "name": "menace_nobrezatotal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgUA8U30fdJwoXJZ"
+            },
+            {
+                "name": "menace_oficiototal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgUBQVBGvDyljC0Q"
+            },
+            {
+                "name": "menace_oficio2total",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgUCWZtiRhbMyCSg"
+            },
+            {
+                "name": "menace_pilotagemtotal",
+                "current": 0,
+                "max": "",
+                "id": "-NH7cgUDviWsmCVtIee1"
+            },
+            {
+                "name": "menace_religiaototal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgUEFwvDYqjztNDV"
+            },
+            {
+                "name": "menace_sobrevivenciatotal",
+                "current": "+1",
+                "max": "",
+                "id": "-NH7cgUEFwvDYqjztNDW"
+            },
+            {
+                "name": "limite",
+                "current": 22,
+                "max": "",
+                "id": "-NH7cgUKZvSJjFc3UfLw"
+            },
+            {
+                "name": "maxima",
+                "current": 44,
+                "max": "",
+                "id": "-NH7cgULj8bXzkzy1nOG"
+            },
+            {
+                "name": "menace_treasure",
+                "current": "",
+                "max": "",
+                "id": "-NH7cgURtR7q9hE5UigJ"
+            },
+            {
+                "name": "cstype",
+                "current": "1",
+                "max": "",
+                "id": "-NH7cux7P0PmvPqB8aMW"
+            },
+            {
+                "name": "armaduradefesa1",
+                "current": "8",
+                "max": "",
+                "id": "-NH7d1vsRa1eZjd36hiA"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_nomeataque",
+                "current": "Pancada",
+                "max": "",
+                "id": "-NH7d4dTe0Y2GXd3KdCK"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_bonusataque",
+                "current": "0",
+                "max": "",
+                "id": "-NH7d4fmebwZULtCKqs3"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_danoataque",
+                "current": "2d6",
+                "max": "",
+                "id": "-NH7d58pY_FaWvyK0uM2"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_danocriticoataque",
+                "current": "2d6 + 2d6",
+                "max": "",
+                "id": "-NH7d5Ac_JCFGpjeESiD"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_danoextraataque",
+                "current": "6",
+                "max": "",
+                "id": "-NH7d5pkQ-XW5wM_wvw0"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_ataquetipodedano",
+                "current": "Impacto",
+                "max": "",
+                "id": "-NH7d7os_qhvVvlMbJ38"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_ataquealcance",
+                "current": "Corpo a Corpo",
+                "max": "",
+                "id": "-NH7d8V-8_-h9-GwEhgt"
+            },
+            {
+                "name": "repeating_attacks_-NH7d3qGZYL5DDyfSU5A_ataquedescricao",
+                "current": "**Golpe Atordoante** Uma criatura que sofre dano da pancada da estátua animada deve fazer um teste de Fortitude CD 20. Se falhar, fica atordoada por uma rodada. Uma criatura só pode ser afetada por esse efeito uma vez por cena.",
+                "max": "",
+                "id": "-NH7dL5N3ZXv25LWB7pL"
+            },
+            {
+                "name": "repeating_abilities_-NH7dRzRK6uva6Z29Mpb_nameability",
+                "current": "Golpe Atordoante",
+                "max": "",
+                "id": "-NH7dT00rWYEoblBJO2G"
+            },
+            {
+                "name": "repeating_abilities_-NH7dRzRK6uva6Z29Mpb_abilitydescription",
+                "current": "Uma criatura que sofra dano da pancada da estátua animada deve fazer um teste de Fortitude (CD 20). \nSe falhar, fica atordoada por uma rodada.",
+                "max": "",
+                "id": "-NH7dVq8KTadTzQKyBSH"
+            },
+            {
+                "name": "menace_type_size",
+                "current": "Constructo Médio (Solo)",
+                "max": "",
+                "id": "-NH7d_w81CN2S2ywcucN"
+            },
+            {
+                "name": "menace_perception",
+                "current": "Visão no Escuro",
+                "max": "",
+                "id": "-NH7dbAZPFyXvXtyaQly"
+            },
+            {
+                "name": "iniciativaoutros",
+                "current": "2",
+                "max": "",
+                "id": "-NH7dc9kmb8D85-LXykP"
+            },
+            {
+                "name": "menace_desloc",
+                "current": "6m (4⬜)",
+                "max": "",
+                "id": "-NH7dhlBGHp1ApfPSiUW"
+            },
+            {
+                "name": "fortitudeoutros",
+                "current": "5",
+                "max": "",
+                "id": "-NH7eprFqMROThevkPbq"
+            },
+            {
+                "name": "lutaoutros",
+                "current": "5",
+                "max": "",
+                "id": "-NH7erHcME3wUlfKwHIa"
+            },
+            {
+                "name": "percepcaooutros",
+                "current": "1",
+                "max": "",
+                "id": "-NH7eu1OWI4I1fnx7tCv"
+            },
+            {
+                "name": "reflexos_treinada",
+                "current": "1",
+                "max": "",
+                "id": "-NH7ev_Un9esDbcFBpUt"
+            },
+            {
+                "name": "reflexosoutros",
+                "current": "1",
+                "max": "",
+                "id": "-NH7ew2MNEJUiOVCn73K"
+            },
+            {
+                "name": "vontade_treinada",
+                "current": "1",
+                "max": "",
+                "id": "-NH7ewWNkix3bpaIOzNr"
+            },
+            {
+                "name": "vontadeoutros",
+                "current": "1",
+                "max": "",
+                "id": "-NH7ewr6B83gDC3MrtuF"
+            },
+            {
+                "name": "iniciativa_treinada",
+                "current": "1",
+                "max": "",
+                "id": "-NH7exy5yzAPaBQmpgih"
+            },
+            {
+                "name": "repeating_menaceabilities_-NHAEVDhzpy-g1V6W4XE_menacenameability",
+                "current": "Golpe Atordoante",
+                "max": "",
+                "id": "-NHAEVEhT_5JUFtc1v1f"
+            },
+            {
+                "name": "repeating_menaceabilities_-NHAEVDhzpy-g1V6W4XE_menaceabilitydescription",
+                "current": "Uma criatura que sofra dano da pancada da estátua animada deve fazer um teste de Fortitude (CD 20). \nSe falhar, fica atordoada por uma rodada.",
+                "max": "",
+                "id": "-NHAEVElO0QFH2Gt2c5r"
+            },
+            {
+                "name": "repeating_menaceabilities_-NHAEVDhzpy-g1V6W4XE_menacenameabilityinput",
+                "current": "Golpe Atordoante",
+                "max": "",
+                "id": "-NHAEVEnWXBo8RE1TVuJ"
+            },
+            {
+                "name": "repeating_menaceabilities_-NHAEVDhzpy-g1V6W4XE_menaceabilitydescriptioninput",
+                "current": "Uma criatura que sofra dano da pancada da estátua animada deve fazer um teste de Fortitude (CD 20). \nSe falhar, fica atordoada por uma rodada.",
+                "max": "",
+                "id": "-NHAEVF72i7bG3nD1wGJ"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_melee_list",
+                "current": "Pancada",
+                "max": "",
+                "id": "-NHAEVFB-qy5U6YoLsMZ"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_meleedescription",
+                "current": " +14 (2d6+6)",
+                "max": "",
+                "id": "-NHAEVFDtzX318qI9osM"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_nomeataque",
+                "current": "Pancada",
+                "max": "",
+                "id": "-NHAEVFFWHGVTtKYxW3w"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_bonusataque",
+                "current": "0",
+                "max": "",
+                "id": "-NHAEVFIbbtghcCQJI_A"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_danoataque",
+                "current": "2d6",
+                "max": "",
+                "id": "-NHAEVFKleUYKt3c-zUs"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_danoextraataque",
+                "current": "6",
+                "max": "",
+                "id": "-NHAEVFLYVWUfYhkvJoh"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_margemcriticoataque",
+                "current": "20",
+                "max": "",
+                "id": "-NHAEVFO4Xz81csMbWA6"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_multiplicadorcriticoataque",
+                "current": "2",
+                "max": "",
+                "id": "-NHAEVFPXAwm9sOeYoLa"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_danocriticoataque",
+                "current": "2d6 + 2d6",
+                "max": "",
+                "id": "-NHAEVFRk1R3XBaaon4X"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_ataquepericia",
+                "current": "@{lutatotal}",
+                "max": "",
+                "id": "-NHAEVFSgjZ0cckQcDCb"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_ataquetipodedano",
+                "current": "Impacto",
+                "max": "",
+                "id": "-NHAEVFUpqBNzMgu3Ylw"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_modatributodano",
+                "current": "0",
+                "max": "",
+                "id": "-NHAEVFW5LRMYgH2NQ9g"
+            },
+            {
+                "name": "repeating_menacemelee_-NHAEVEA9gWulfsML5ba_ataquedescricao",
+                "current": "**Golpe Atordoante** Uma criatura que sofre dano da pancada da estátua animada deve fazer um teste de Fortitude CD 20. Se falhar, fica atordoada por uma rodada. Uma criatura só pode ser afetada por esse efeito uma vez por cena.",
+                "max": "",
+                "id": "-NHAEVFYe4dampdR1J7A"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "⚔️Pancada",
+                "description": "",
+                "istokenaction": true,
+                "action": "&{template:t20-attack}{{character=@{selected|token_name}}} {{attackname=Pancada}}{{attackroll=[[(1d20cs>20)+@{lutatotal}]]}} {{damageroll=[[(2d6)+@{for_mod}]]}} {{criticaldamageroll=[[(4d6)+@{for_mod}]]}}{{typeofdamage=Impacto}}{{description=Golpeia **@{target|token_name}** (Defesa: @{target|defesatotal})\n\n**Golpe Atordoante**: Uma criatura que sofra dano da pancada da estátua animada deve fazer um teste de Fortitude (CD 20). Se falhar, fica atordoada por uma rodada.}}",
+                "order": -1
+            },
+            {
+                "name": "🔩Perícias",
+                "description": "",
+                "istokenaction": true,
+                "action": "&{template:t20}{{character=@{character_name}}}{{rollname=Teste de Perícia}}{{theroll=?{Perícia: |Acrobacia,Acrobacia[[1d20+@{acrobaciatotal}]]| Adestramento,Adestramento[[1d20+@{adestramentototal}]]| Atletismo,Atletismo[[1d20+@{atletismototal}]]| Atuação,Atuação[[1d20+@{atuacaototal}]]| Cavalgar,Cavalgar[[1d20+@{cavalgartotal}]]| Conhecimento,Conhecimento[[1d20+@{conhecimentototal}]]| Cura,Cura[[1d20+@{curatotal}]]| Diplomacia,Diplomacia[[1d20+@{diplomaciatotal}]]| Enganação,Enganação[[1d20+@{enganacaototal}]]|  Furtividade,Furtividade[[1d20+@{furtividadetotal}]]| Guerra,Guerra[[1d20+@{guerratotal}]]| Intimidação,Intimidação[[1d20+@{intimidacaototal}]]| Intuição,Intuição[[1d20+@{intuicaototal}]]| Investigação,Investigação[[1d20+@{investigacaototal}]]| Jogatina,Jogatina[[1d20+@{jogatinatotal}]]| Ladinagem,Ladinagem[[1d20+@{ladinagemtotal}]]| Luta,Luta[[1d20+@{lutatotal}]]| Misticismo,Misticismo[[1d20+@{misticismototal}]]| Nobreza,Nobreza[[1d20+@{nobrezatotal}]]| Ofício,Oficio [[1d20+@{oficiototal}]]|Ofício2,Oficio2[[1d20+@{oficio2total}]]| Percepção,Percepção[[1d20+@{percepcaototal}]]| Pilotagem,Pilotagem[[1d20+@{pilotagemtotal}]]| Pontaria,Pontaria[[1d20+@{pontariatotal}]]|\nReligião,Religião[[1d20+@{religiaototal}]]| Sobrevivência,Sobrevivência[[1d20+@{sobrevivenciatotal}]]}}}",
+                "order": -1
+            },
+            {
+                "name": "🏃Iniciativa-🅻",
+                "description": "",
+                "istokenaction": true,
+                "action": "&{template:t20}{{character=@{character_name}}}{{rollname=Teste de Iniciativa}}{{theroll=[[1d20 + @{iniciativatotal} &{tracker}]]}}\n",
+                "order": -1
+            },
+            {
+                "name": "💪Atributos",
+                "description": "",
+                "istokenaction": true,
+                "action": "&{template:t20}{{character=@{character_name}}}{{rollname=Teste de Atributo}}{{theroll=?{Atributo: |Força,Força[[1d20+@{for_mod}]]| Destreza,Destreza[[1d20+@{des_mod}]]| Constituição,Constituição[[1d20+@{con_mod}]]| Inteligência,Inteligência[[1d20+@{int_mod}]]| Sabedoria,Sabedoria[[1d20+@{sab_mod}]]| Carisma,Carisma[[1d20+@{car_mod}]]}}}\n",
+                "order": -1
+            },
+            {
+                "name": "📝Informações",
+                "description": "",
+                "istokenaction": true,
+                "action": "/w gm &{template:t20-info}{{infoname=Informações Adicionais}}{{description=**Tipo**: Constructo Médio\n**Deslocamento**: 6m(4⬜)\n**Ataques**: Pancada +14 (2d6+6 mais atordoamento)\n**Imunidades**: **Construto**: Um construto tem imunidade a doenças, fadiga, sangramento, sono e veneno; não precisa respirar, alimentar-se e dormir; não recupera pontos de vida\npor descanso e efeitos de cura.\n**Sentidos**: Visão no Escuro}}",
+                "order": -1
+            },
+            {
+                "name": "⛨Resistências-🆁",
+                "description": "",
+                "istokenaction": true,
+                "action": "&{template:t20}{{character=@{character_name}}}{{rollname=Teste de Perícia}}{{theroll=?{Perícia: | Fortitude,Fortitude[[1d20+@{fortitudetotal}]]|\nReflexos,Reflexos[[1d20+@{reflexostotal}]]| Vontade,Vontade[[1d20+@{vontadetotal}]]}}}",
+                "order": -1
+            },
+            {
+                "name": "🎲Dados",
+                "description": "",
+                "istokenaction": true,
+                "action": "&{template:t20}{{character=@{character_name}}}{{rollname=Dados Complementares}}{{theroll=[[?{Dados|1}d?{Dado|1d4,4|1d6,6|1d8,8|1d10,10|1d12,12|1d20,20}+?{Bonus|0}]]}}",
+                "order": -1
+            },
+            {
+                "name": "✨Golpe Atordoante",
+                "description": "",
+                "istokenaction": false,
+                "action": "&{template:t20-info}{{infoname=Golpe Atordoante}}{{description=Uma criatura que sofra dano da pancada da estátua animada deve fazer um teste de Fortitude (CD 20). Se falhar, fica atordoada por uma rodada.}}",
+                "order": -1
+            },
+            {
+                "name": "==MACROS-GERAIS==",
+                "description": "",
+                "istokenaction": false,
+                "action": "",
+                "order": -1
+            },
+            {
+                "name": "==MACROS-PRÓPRIAS==",
+                "description": "",
+                "istokenaction": false,
+                "action": "",
+                "order": -1
+            }
+        ]
+    }
+}
